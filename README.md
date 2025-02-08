@@ -1,0 +1,1 @@
+This code demonstrates a common error in TypeScript: type mismatch. The `greeter` function expects a string, but the `user` variable is an array of strings.  The solution involves accessing the correct element within the array.
